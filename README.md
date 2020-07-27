@@ -1,6 +1,6 @@
 # first_app
 
-A new Flutter project.
+This is my firstApp in Flutter. In this I've used two 2 icons and IconButton, an image and use of Scaffold and MaterialApp.
 
 ## Getting Started
 
